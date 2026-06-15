@@ -1,0 +1,29 @@
+GOAL:
+I am going to learn backend development.
+
+For that I have selected Go (or Go lang) language.
+
+I will do this course : https://www.udemy.com/course/learn-how-to-code/?couponCode=MT260601G1
+
+Time duration : 2 months
+Tentative 
+Start date: 16/6/2026
+End date: 31/7/2026
+< - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - ->
+Date: 15/6/2026
+Day: Monday 01
+
+Day 1 of my journey of learning Go-Lang and becoming a full stack developer.
+
+1. Introduction:
+    - Watched folder 1.
+    - Downloaded all the resources.
+    - Pushed them in the git repo.
+    - Watched 4 videos
+2. Section 2: Getting going with go
+    - Watched videos till 6.
+    - Learned about the official documentationa and the specifications.
+
+Now, I am leaving for the day.
+Have a good day ahead.
+anshbegmirza
