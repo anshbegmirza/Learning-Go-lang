@@ -14,7 +14,7 @@ Date: 15/6/2026
 Day: Monday 01
 
 Day 1 of my journey of learning Go-Lang and becoming a full stack developer.
-
+Hi @all
 1. Introduction:
     - Watched folder 1.
     - Downloaded all the resources.
@@ -24,6 +24,37 @@ Day 1 of my journey of learning Go-Lang and becoming a full stack developer.
     - Watched videos till 6.
     - Learned about the official documentationa and the specifications.
 
+for the track of the progress: head over to the following git repo. There I will be pushing daily code.
+REPO LINK : https://github.com/anshbegmirza/Learning-Go-lang
+
 Now, I am leaving for the day.
 Have a good day ahead.
 anshbegmirza
+
+< - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - ->
+Date: 16/6/2026
+Day: Tuesday 02
+
+1. Section 2 Getting going with go
+    - Video no: 7:
+        - First go program.
+    - Video no: 8 Exploring formating and documentation
+        - %s = string
+        - %d = decimal
+        - %T = type of the variable
+        - %v = default type of the variable.
+        - The syntax of go is similar to c programming language.
+    - V9 - How computers work
+        - Computers work with 0s and 1s and they are kind of similar to switch turn on and turn off
+        - he explained the working of it
+        - explained the transistors in a computer chip.
+    - V10. ASCII, Unicode, & UTF-8 - understanding text
+        - The coding scheme used world wide for all the langs
+        - Go suppots UTF-8 chars.
+        - https://go.dev/play/p/PnzhfYhGWCC
+    - V11. String literals and documentation
+        - `` back ticks are used to write raw string literals.
+        - https://go.dev/play/p/wge8tWLEQNM
+
+2. Section: 3 Hands on exercise
+        - Resume from lecture 12.
